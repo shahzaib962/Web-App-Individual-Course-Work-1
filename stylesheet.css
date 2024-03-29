@@ -1,0 +1,123 @@
+* {
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.display-flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+
+/* .display-flex-col {
+    flex-direction: column;
+} */
+
+.width {
+    width: 100%;
+}
+
+.height {
+    height: 100%;
+}
+
+.width-height {
+    width: 100%;
+    height: 100%;
+}
+
+header {
+    width: 100%;
+    padding: 0.5rem;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 1px 6px 6px #42292130;
+}
+
+header button {
+    font-size: 1rem;
+}
+
+#filters {
+    width: 30%;
+    height: 100%;
+    align-items: center;
+}
+
+#subjects {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 1rem;
+    padding: 1rem;
+}
+
+.subject {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-radius: 1rem;
+}
+
+
+/*
+.subject .info_container {
+    padding: 0.5rem;
+} */
+
+
+/* .subject button {
+    width: 50%;
+    align-self: center;
+    padding: 0.75rem 0;
+    background-color: rgb(0, 179, 255);
+    border-radius: 0.5rem;
+} */
+
+.subject figure {
+    /* margin-right: 00px; */
+}
+
+.subject img {
+    width: 100%;
+    height: 100%;
+}
+
+.subject * {
+    margin: 0.25rem 0;
+}
+
+#Checkout {
+    align-items: center;
+}
+
+.bgchange {
+    background: #314755;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #dabf26, #314755);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #dab626, #314755);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: azure;
+}
+
+.buttonsuccess {
+    background: #7b801a;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #26d08f, #1A2980);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #26d04b, #1A2980);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+}
+
+.buttonred {
+    background: #D31027;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #EA384D, #D31027);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #EA384D, #D31027);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
