@@ -21,54 +21,54 @@ let subjects = [{
         image: "img/3.png"
     },
     {
-        lesson: "Ice skating",
+        lesson: "FORD",
         location: 'Dubai Mall',
         price: "1500",
         spaces: 5,
-        image: "img/icekating.png"
+        image: "img/4.png"
     },
     {
-        lesson: "Futsal",
+        lesson: "MERCEDES",
         location: 'Ski Dubai',
         price: "2000",
         spaces: 5,
-        image: "img/futsall.png"
+        image: "img/5.png"
     },
     {
-        lesson: "Arabic",
+        lesson: "FERRARI",
         location: 'Dubai Garden',
         price: "3000",
         spaces: 5,
-        image: "img/arabic.webp"
+        image: "img/9.png"
     },
     {
-        lesson: "Indoor Games",
+        lesson: "NISSAN",
         location: 'Down Town',
         price: "1000",
         spaces: 5,
-        image: "img/indoorgames.jpg"
+        image: "img/8.png"
     },
     {
-        lesson: "Outdoor Games",
+        lesson: "VOLKSWAGEN",
         location: 'Desert Safari',
         price: "800",
         spaces: 5,
-        image: "img/ouutdoorgames.png"
+        image: "img/10.png"
     },
     {
-        lesson: "Movies",
+        lesson: "MUSTANG",
         location: 'Dubai Mall',
         price: "500",
         spaces: 5,
-        image: "img/movies.jpg"
+        image: "img/16.png"
 
     },
     {
-        lesson: "Practice a Skill",
+        lesson: "HONDA",
         location: 'Home town',
         price: "200",
         spaces: 5,
-        image: "img/practiceskils.png"
+        image: "img/15.png"
 
     },
 ]
