@@ -36,7 +36,8 @@ header {
     padding: 0.5rem;
     align-items: center;
     justify-content: space-evenly;
-    box-shadow: 1px 6px 6px #42292130;
+    box-shadow: 1px 6px 6px #e83c0230;
+    background-color: rgb(162, 110, 12);
 }
 
 header button {
