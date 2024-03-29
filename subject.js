@@ -2,35 +2,35 @@ let subjects = [{
 
         lesson: "AUDI",
         location: 'Burj Khalifa',
-        price: "5000$",
+        price: "5000",
         spaces: 5,
         image: "img/1.png"
     },
     {
         lesson: "PORSCHE",
         location: 'Burj Al Arab',
-        price: "3000$",
+        price: "3000",
         spaces: 5,
         image: "img/2.png"
     },
     {
         lesson: "LAMBORGHINI",
         location: 'Global Village',
-        price: "4000$",
+        price: "4000",
         spaces: 5,
         image: "img/3.png"
     },
     {
         lesson: "FORD",
         location: 'Dubai Mall',
-        price: "1500",
+        price: "3500",
         spaces: 5,
         image: "img/4.png"
     },
     {
         lesson: "MERCEDES",
         location: 'Ski Dubai',
-        price: "2000",
+        price: "2500",
         spaces: 5,
         image: "img/5.png"
     },
@@ -44,21 +44,21 @@ let subjects = [{
     {
         lesson: "NISSAN",
         location: 'Down Town',
-        price: "1000",
+        price: "6000",
         spaces: 5,
         image: "img/8.png"
     },
     {
         lesson: "VOLKSWAGEN",
         location: 'Desert Safari',
-        price: "800",
+        price: "8000",
         spaces: 5,
         image: "img/10.png"
     },
     {
         lesson: "MUSTANG",
         location: 'Dubai Mall',
-        price: "500",
+        price: "5900",
         spaces: 5,
         image: "img/16.png"
 
@@ -66,7 +66,7 @@ let subjects = [{
     {
         lesson: "HONDA",
         location: 'Home town',
-        price: "200",
+        price: "12000",
         spaces: 5,
         image: "img/15.png"
 
