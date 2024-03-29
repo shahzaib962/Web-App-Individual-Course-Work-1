@@ -117,6 +117,10 @@
                     </div>
             </section>
 
+           
+           
+           
+           
             <div class="container-fluid" v-else>
                 <div class="row">
                     <div class="col-md-4 bg-light mt-5">
@@ -136,9 +140,68 @@
                                 </div>
                                 <input type="number" class="form-control" v-model.trim="userData.phone">
                             </div>
+
+
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Address:</span>
+                                </div>
+                                <input type="text" class="form-control" v-model.trim="userData.address">
+                            </div>
+                    
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">City:</span>
+                                </div>
+                                <input type="text" class="form-control" v-model.trim="userData.city">
+                            </div>
+                    
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">State:</span>
+                                </div>
+                                <select class="form-select" v-model="userData.state">
+                                    <option value="" selected disabled>Select state</option>
+                                    <option value="state1">Dubai</option>
+                                    <option value="state2">Sharjah</option>
+                                    <option value="state3">Abu Dhabi</option>
+                                    <!-- Add more options as needed -->
+                                </select>
+                            </div>
+                    
+                            <div class="input-group input-group-sm mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Payment Method:</span>
+                                </div>
+                                <select class="form-select" v-model="userData.paymentMethod">
+                                    <option value="" selected disabled>Select payment method</option>
+                                    <option value="creditCard">Credit Card</option>
+                                    <option value="debitCard">Debit Card</option>
+                                    <option value="paypal">PayPal</option>
+                                    <!-- Add more options as needed -->
+                                </select>
+                            </div>
+
+
+
+
+
+
                             <a href="index.html"> <button class="btn buttonsuccess text-white" v-on:click="showAlert" v-if="canCheckout">Checkout</button></a>
                         </div>
                     </div>
+
+
+
+
+
+
+
+
+
+
+
+                    
 
                     <!-- Remove Cards Details Card Section Add To Cart -->
                     <div class="col-md-8">
