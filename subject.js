@@ -39,7 +39,7 @@ let subjects = [{
         location: 'Dubai Garden',
         price: "3000",
         spaces: 5,
-        image: "img/9.webp"
+        image: "img/7.webp"
     },
     {
         lesson: "NISSAN",
@@ -60,7 +60,7 @@ let subjects = [{
         location: 'Dubai Mall',
         price: "5900",
         spaces: 5,
-        image: "img/16.webp"
+        image: "img/16.png"
 
     },
     {
@@ -68,7 +68,7 @@ let subjects = [{
         location: 'Home town',
         price: "12000",
         spaces: 5,
-        image: "img/15.webp"
+        image: "img/11.webp"
 
     },
 ]
