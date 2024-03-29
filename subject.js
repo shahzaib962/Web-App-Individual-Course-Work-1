@@ -1,24 +1,24 @@
 let subjects = [{
 
-        lesson: "English Language",
+        lesson: "AUDI",
         location: 'Burj Khalifa',
-        price: "500",
+        price: "5000$",
         spaces: 5,
-        image: "img/englishlanguage.jpg"
+        image: "img/1.png"
     },
     {
-        lesson: "Swimming",
+        lesson: "PORSCHE",
         location: 'Burj Al Arab',
-        price: "3000",
+        price: "3000$",
         spaces: 5,
-        image: "img/swimming.jpg"
+        image: "img/2.png"
     },
     {
-        lesson: "Sports activity",
+        lesson: "LAMBORGHINI",
         location: 'Global Village',
-        price: "4000",
+        price: "4000$",
         spaces: 5,
-        image: "img/sportactivity.png"
+        image: "img/3.png"
     },
     {
         lesson: "Ice skating",
