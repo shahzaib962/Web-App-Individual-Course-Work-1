@@ -4,63 +4,63 @@ let subjects = [{
         location: 'Burj Khalifa',
         price: "5000",
         spaces: 5,
-        image: "img/1.png"
+        image: "img/1.webp"
     },
     {
         lesson: "PORSCHE",
         location: 'Burj Al Arab',
         price: "3000",
         spaces: 5,
-        image: "img/2.png"
+        image: "img/2.webp"
     },
     {
         lesson: "LAMBORGHINI",
         location: 'Global Village',
         price: "4000",
         spaces: 5,
-        image: "img/3.png"
+        image: "img/3.webp"
     },
     {
         lesson: "FORD",
         location: 'Dubai Mall',
         price: "3500",
         spaces: 5,
-        image: "img/4.png"
+        image: "img/4.webp"
     },
     {
         lesson: "MERCEDES",
         location: 'Ski Dubai',
         price: "2500",
         spaces: 5,
-        image: "img/5.png"
+        image: "img/5.webp"
     },
     {
         lesson: "FERRARI",
         location: 'Dubai Garden',
         price: "3000",
         spaces: 5,
-        image: "img/9.png"
+        image: "img/9.webp"
     },
     {
         lesson: "NISSAN",
         location: 'Down Town',
         price: "6000",
         spaces: 5,
-        image: "img/8.png"
+        image: "img/8.webp"
     },
     {
         lesson: "VOLKSWAGEN",
         location: 'Desert Safari',
         price: "8000",
         spaces: 5,
-        image: "img/10.png"
+        image: "img/10.webp"
     },
     {
         lesson: "MUSTANG",
         location: 'Dubai Mall',
         price: "5900",
         spaces: 5,
-        image: "img/16.png"
+        image: "img/16.webp"
 
     },
     {
@@ -68,7 +68,7 @@ let subjects = [{
         location: 'Home town',
         price: "12000",
         spaces: 5,
-        image: "img/15.png"
+        image: "img/15.webp"
 
     },
 ]
