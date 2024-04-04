@@ -14,53 +14,53 @@ let subjects = [{
         image: "imgs/2.jpg"
     },
     {
-        lesson: "LAMBORGHINI",
+        lesson: "Swimming",
         location: 'International City',
         price: "4000",
         spaces: 5,
-        image: "imgs/3.jpg"
+        image: "imgs/11.jpg"
     },
     {
-        lesson: "FORD",
+        lesson: "Soccer",
         location: 'Dubai Mall',
         price: "3500",
         spaces: 5,
-        image: "img/4.webp"
+        image: "imgs/4.jpg"
     },
     {
-        lesson: "MERCEDES",
+        lesson: "Football",
         location: 'Ski Dubai',
         price: "2500",
         spaces: 5,
-        image: "img/5.webp"
+        image: "imgs/5.jpg"
     },
     {
-        lesson: "FERRARI",
+        lesson: "Music",
         location: 'Dubai Garden',
         price: "3000",
         spaces: 5,
-        image: "img/7.webp"
+        image: "imgs/7.jpg"
     },
     {
-        lesson: "NISSAN",
+        lesson: "Activity",
         location: 'Down Town',
         price: "6000",
         spaces: 5,
-        image: "img/8.webp"
+        image: "imgs/8.jpg"
     },
     {
-        lesson: "VOLKSWAGEN",
+        lesson: "Sports",
         location: 'Desert Safari',
         price: "8000",
         spaces: 5,
-        image: "img/10.webp"
+        image: "imgs/10.jpg"
     },
     {
-        lesson: "MUSTANG",
+        lesson: "Ludo",
         location: 'Dubai Mall',
         price: "5900",
         spaces: 5,
-        image: "img/16.png"
+        image: "imgs/6.jpg"
 
     },
     {
