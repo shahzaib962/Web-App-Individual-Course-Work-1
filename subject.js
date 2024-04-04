@@ -1,10 +1,10 @@
 let subjects = [{
 
-        lesson: "AUDI",
+        lesson: "Arabic",
         location: 'Burj Khalifa',
         price: "5000",
         spaces: 5,
-        image: "img/1.webp"
+        image: "img/arabi.jpg"
     },
     {
         lesson: "PORSCHE",
