@@ -11,7 +11,7 @@ let subjects = [{
         location: 'Burj Al Arab',
         price: "3000",
         spaces: 5,
-        image: "img/2.webp"
+        image: "imgs/2.jpg"
     },
     {
         lesson: "LAMBORGHINI",
