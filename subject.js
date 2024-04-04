@@ -64,11 +64,11 @@ let subjects = [{
 
     },
     {
-        lesson: "HONDA",
+        lesson: "Sports",
         location: 'Home town',
         price: "12000",
         spaces: 5,
-        image: "img/11.webp"
+        image: "imgs/8.png"
 
     },
 ]
