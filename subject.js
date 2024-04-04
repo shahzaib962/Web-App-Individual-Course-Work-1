@@ -4,7 +4,7 @@ let subjects = [{
         location: 'Burj Khalifa',
         price: "5000",
         spaces: 5,
-        image: "img/arabi.jpeg"
+        image: "imgs/1.jpeg"
     },
     {
         lesson: "PORSCHE",
