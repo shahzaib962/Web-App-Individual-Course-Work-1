@@ -7,7 +7,7 @@ let subjects = [{
         image: "imgs/1.jpeg"
     },
     {
-        lesson: "PORSCHE",
+        lesson: "English",
         location: 'Burj Al Arab',
         price: "3000",
         spaces: 5,
@@ -15,10 +15,10 @@ let subjects = [{
     },
     {
         lesson: "LAMBORGHINI",
-        location: 'Global Village',
+        location: 'International City',
         price: "4000",
         spaces: 5,
-        image: "img/3.webp"
+        image: "imgs/3.jpg"
     },
     {
         lesson: "FORD",
