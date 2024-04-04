@@ -25,14 +25,14 @@ let subjects = [{
         location: 'Dubai Mall',
         price: "3500",
         spaces: 5,
-        image: "imgs/4.jpg"
+        image: "imgs/4.png"
     },
     {
         lesson: "Football",
         location: 'Ski Dubai',
         price: "2500",
         spaces: 5,
-        image: "imgs/5.jpg"
+        image: "imgs/5.png"
     },
     {
         lesson: "Music",
@@ -46,14 +46,14 @@ let subjects = [{
         location: 'Down Town',
         price: "6000",
         spaces: 5,
-        image: "imgs/8.jpg"
+        image: "imgs/8.png"
     },
     {
         lesson: "Sports",
         location: 'Desert Safari',
         price: "8000",
         spaces: 5,
-        image: "imgs/10.jpg"
+        image: "imgs/10.png"
     },
     {
         lesson: "Ludo",
