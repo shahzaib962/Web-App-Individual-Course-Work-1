@@ -13,7 +13,8 @@ var cacheFiles = [
     'imgs/8.jpg',
     'imgs/9.jpg',
     'imgs/10.jpg',
-    'imgs/11.jpg'
+    'imgs/11.jpg',
+    'imgs/icon_512.png'
 ];
 
 self.addEventListener('install', (e) =>{
